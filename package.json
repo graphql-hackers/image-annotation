@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-cropper-image-editor": "^1.0.8",
     "react-dom": "^16.8.6",
+    "react-image-annotation": "^0.9.9",
     "react-scripts": "2.1.8"
   },
   "scripts": {
